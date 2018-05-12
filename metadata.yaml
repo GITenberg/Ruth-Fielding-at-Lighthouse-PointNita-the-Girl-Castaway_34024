@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1619'
     url: http://www.gutenberg.org/2009/agents/1619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34024#Ruth-Fielding-at-Lighthouse-PointNita-the-Girl-Castaway
 gutenberg_issued: '2010-10-03'
 gutenberg_type: Text
 identifiers:
