@@ -1,0 +1,29 @@
+_repo: Ruth-Fielding-at-Lighthouse-PointNita-the-Girl-Castaway_34024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Lighthouses -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+title: Ruth Fielding at Lighthouse Point; or, Nita, the Girl Castaway
+url: http://www.gutenberg.org/ebooks/34024
